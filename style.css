@@ -1,0 +1,64 @@
+.banner {
+    color: white;
+    height: 400px;
+    width: 100%;
+    text-align: center;    
+}
+.middle {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    }
+
+.last {
+        margin: auto;
+        height: 160px;
+        width: 50%;
+        text-align: center;
+        background-color: rgb(250, 237, 195);        
+    }
+.ThreePara {
+        margin: 10px;
+        padding: 5px;
+        height: 250px;
+        width: 30%;
+        text-align: left;
+        display: inline-block;
+    }
+#bonous {
+        display: inline-block; 
+        margin: auto;
+        width: 150%;
+
+}
+
+label{
+    font-size: 25px;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+footer{
+    font-family: "Sofia", sans-serif;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    color: rgb(241, 100, 100);
+    text-align: center;
+}
+
+h1{
+    font-size: 40px; 
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+  }
